@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: 9de7c667b8aefea41ae486d0480d45cf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: plataformas robadas listas para usar_0
+    21300002: plataformas robadas listas para usar_1
+    21300004: plataformas robadas listas para usar_2
+    21300006: plataformas robadas listas para usar_3
+    21300008: plataformas robadas listas para usar_4
+    21300010: plataformas robadas listas para usar_5
+    21300012: plataformas robadas listas para usar_6
+    21300014: plataformas robadas listas para usar_7
+    21300016: plataformas robadas listas para usar_8
+    21300018: plataformas robadas listas para usar_9
+    21300020: plataformas robadas listas para usar_10
+    21300022: plataformas robadas listas para usar_11
+    21300024: plataformas robadas listas para usar_12
+    21300026: plataformas robadas listas para usar_13
+    21300028: plataformas robadas listas para usar_14
+    21300030: plataformas robadas listas para usar_15
+    21300032: plataformas robadas listas para usar_16
+    21300034: plataformas robadas listas para usar_17
+    21300036: plataformas robadas listas para usar_18
+    21300038: plataformas robadas listas para usar_19
+    21300040: plataformas robadas listas para usar_20
+    21300042: plataformas robadas listas para usar_21
+    21300044: plataformas robadas listas para usar_22
+    21300046: plataformas robadas listas para usar_23
+    21300048: plataformas robadas listas para usar_24
+    21300050: plataformas robadas listas para usar_25
+    21300052: plataformas robadas listas para usar_26
+    21300054: plataformas robadas listas para usar_27
+    21300056: plataformas robadas listas para usar_28
+    21300058: plataformas robadas listas para usar_29
+    21300060: plataformas robadas listas para usar_30
+    21300062: plataformas robadas listas para usar_31
+    21300064: plataformas robadas listas para usar_32
+    21300066: plataformas robadas listas para usar_33
+    21300068: plataformas robadas listas para usar_34
+    21300070: plataformas robadas listas para usar_35
+    21300072: plataformas robadas listas para usar_36
+    21300074: plataformas robadas listas para usar_37
+    21300076: plataformas robadas listas para usar_38
+    21300078: plataformas robadas listas para usar_39
+    21300080: plataformas robadas listas para usar_40
+    21300082: plataformas robadas listas para usar_41
+    21300084: plataformas robadas listas para usar_42
+    21300086: plataformas robadas listas para usar_43
+    21300088: plataformas robadas listas para usar_44
+    21300090: plataformas robadas listas para usar_45
+    21300092: plataformas robadas listas para usar_46
+    21300094: plataformas robadas listas para usar_47
+    21300096: plataformas robadas listas para usar_48
+    21300098: plataformas robadas listas para usar_49
+    21300100: plataformas robadas listas para usar_50
+    21300102: plataformas robadas listas para usar_51
+    21300104: plataformas robadas listas para usar_52
+    21300106: plataformas robadas listas para usar_53
+    21300108: plataformas robadas listas para usar_54
+    21300110: plataformas robadas listas para usar_55
+    21300112: plataformas robadas listas para usar_56
+    21300114: plataformas robadas listas para usar_57
+    21300116: plataformas robadas listas para usar_58
+    21300118: plataformas robadas listas para usar_59
+    21300120: plataformas robadas listas para usar_60
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234e261bd1f305c4484249008066cc43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_1
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 440
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2552bebbf480203499500f805ba9002e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 448
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dd97a999b4ebe4ea7aad470cd46ad5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 389
+        width: 106
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6e97155e93664418d37999e26852fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 391
+        width: 107
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d19b268702442441b5b7d02142edb81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 368
+        width: 114
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2523e31e6bf89d14797a4da4978b93a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 336
+        width: 101
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af45061023092404baffbada77d8c390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 338
+        width: 106
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efa5a9e89f3e77408b8fb9bdd71c285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 54
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa40b42686ddb314eb0402a9e9faea4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_9
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 360
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd333c49049568469d1d8a755c933ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 338
+        width: 48
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3c024d6ebb7e645b0117e92cc0e513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 272
+        width: 51
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f947bef3f9d7144abb22000b85aae1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 276
+        width: 99
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a37380a4f7a984b9dda484eef2cc18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 270
+        width: 100
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89919fab234fe14c8e233a875cd8c51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_14
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 272
+        width: 51
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe8ddf6cfe33e549a9089f39bed0f1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 221
+        width: 122
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48948f37eabe10844b8e0c1c48ebf8b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 198
+        width: 251
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4655f9f4f8b22e49903aa648f09a814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 208
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefc55f7ef4d2b44aa260bcbf6053c19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 185
+        width: 53
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fa54d160e9a174eb4d9c0ca0455300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 179
+        width: 92
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9a3362bc9fb3e44b7797d9bedc7c9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_20
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 163
+        width: 88
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a9624d0d94f8f439a7b8ade33a547d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 105
+        width: 85
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacf335b14477134d81f9b28bf11108a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 162
+        width: 86
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d108bff205c6c2d4989836e5757dcdab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 152
+        width: 52
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a53e766b5a59e43bcc9529bc16183e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 165
+        width: 44
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62897850f08ecac448793c6d1c777d9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 126
+        width: 96
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464831dc0cc45654cb650df77e983263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 136
+        width: 93
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb8b7cb593a8554bb10d9471cb9b642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 148
+        width: 87
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67367cc35af2dcc488f20cf9524ed46b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_28
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 142
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15513dad4c6bbda43b21928f5d1a1cff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_29
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 120
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d113c62c677ebb04e9b87fb2e3230d1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_30
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 123
+        width: 86
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f782ce4b4dff94e9b94fdf681820ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 112
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360354b99eaaa7d46b81f8d0e31ba8c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_32
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 46
+        width: 60
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca406430c0ef63142afad2e369ddb246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_33
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 104
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed3d2c35ff71e640acbdfcbd9c01481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_34
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 48
+        width: 63
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1745961b3b8624abbee912a0cdfd51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 51
+        width: 49
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07089c9ac6217f746ab23dca00a6e10c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 51
+        width: 51
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd63592b0ae00542bbb915cd41f17b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_37
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 93
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adb02c93d18a77418a40c61e5fe39ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_38
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 51
+        width: 137
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dbab5511acb0a49a434bd6100dbec5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 23
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a030ce09c64e046a5759c75fd5698c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_40
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 40
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64550ce08e92abb41a4f65bdbca4e788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_41
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 32
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5cbff58b61dbb42a9c8bd0c927f46e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 20
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84643b4580e090b48a001f750096184a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 6
+        width: 32
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c9f44402a03b346ad56a0bbb47e492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_44
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 6
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e6fe0582358ad43979ef30d3658390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_45
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 3
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1bb0c6db5804d428eb3cad19d657dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 6
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4660e0b2e9c829b4cac7da4fa5d30694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_47
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 6
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0e0c8c9e14de440b68f76ec979e733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 6
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26732b46315532b4eb0c1b9abbdfcabe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 6
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092aee906e801274485a0779a3793c71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_50
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 6
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c052fa07c1f2b0a4f8de3a7f4dd81ee7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_51
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 6
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba5951a3095ad24bbacf15a3b860ad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_52
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 6
+        width: 17
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1c25f81833367489bbd7100e69fad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_53
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 6
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3368df4d4eaa0124a9976000571ec4b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_54
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 6
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701dc62c07d001a4487bb031104782f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_55
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 6
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65a1f27aa78f7842ade24bb28dbfc87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_56
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 6
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137dcac4629a9a8478ce32be95856432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_57
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 6
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855e27ae3e8da3d4ca2bdd72436f4e6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_58
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 6
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b397b2d8dc0b9734dbeac72bfb6bc6a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_59
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 6
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88734b8161010af45936e9d63c61afe7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas robadas listas para usar_60
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 6
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239f9db661c38e341b1f764a7ef645c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b113c6b8a7f282f4cad3b4c04d1cd814
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
